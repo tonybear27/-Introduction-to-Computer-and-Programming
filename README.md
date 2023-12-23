@@ -1,4 +1,6 @@
-﻿# Introduction-to-Computer-and-Programming
+> [!CAUTION]
+> Don't copy my work or you will be caught for plagiarism 🙅‍♂️⛔️
+# Introduction-to-Computer-and-Programming
 2021 Fall NYCU, 黃俊龍
 
 ## Grading Policy
